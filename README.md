@@ -11,10 +11,23 @@
 
 Demo Video Link: https://youtu.be/Wi82__CXJx8?si=LQ3V2fEeeTr4mHpN
 Drive Link:https://drive.google.com/drive/folders/1Pbkw3iPvGhM3NRmtxundSdGpCmCs17vM?usp=drive_link
-Project Gallery : ![WhatsApp Image 2025-11-26 at 9 47 55 AM](https://github.com/user-attachments/assets/9c5d0f7c-df8e-4e54-b8c9-f3edebf88a61)
+Project Gallery : 
+![WhatsApp Image 2025-11-26 at 9 46 59 AM](https://github.com/user-attachments/assets/6967591d-f554-4aca-ad9e-bb54105fb52e)
+![WhatsApp Image 2025-11-26 at 9 47 09 AM](https://github.com/user-attachments/assets/d0c68c1b-41bc-4612-8f86-1f22119f613b)
+![WhatsApp Image 2025-11-26 at 9 47 30 AM](https://github.com/user-attachments/assets/cad5c6ee-da8e-4de5-9561-d8cf4fa93ca2)
+![WhatsApp Image 2025-11-26 at 9 47 40 AM](https://github.com/user-attachments/assets/5ec3b6a0-6c00-495c-a65e-111b21baabd9)![WhatsApp Image 2025-11-26 at 9 47 55 AM](https://github.com/user-attachments/assets/fd6c4821-ef65-4f93-b325-70997e382885)
+![WhatsApp Image 2025-11-26 at 9 48 02 AM](https://github.com/user-attachments/assets/6cef3dc5-4f83-4eca-b399-505e48783f14)
+![WhatsApp Image 2025-11-26 at 9 48 08 AM](https://github.com/user-attachments/assets/375a3d85-0ad1-4520-8a0f-db422fdb5395)
+![WhatsApp Image 2025-11-26 at 9 48 13 AM](https://github.com/user-attachments/assets/b11a7f5e-d541-4194-8585-1d13035b88f1)![WhatsApp Image 2025-11-26 at 9 48 35 AM](https://github.com/user-attachments/assets/5951a55e-cbd4-4ae3-959a-6a164a903041)
+
+![WhatsApp Image 2025-11-26 at 9 48 18 AM](https://github.com/user-attachments/assets/b1390f87-12a9-4755-a990-70bb567b29a7)![WhatsApp Image 2025-11-26 at 9 48 29 AM](https://github.com/user-attachments/assets/108df338-9c4f-40de-b221-7c803dbd9439)
+
+![WhatsApp Image 2025-11-26 at 9 48 23 AM](https://github.com/user-attachments/assets/09152359-62d9-4e74-b6b4-14a151618b42)
 
 
-**E Gram Shakti** is an offline-first, voice-first, multilingual digital literacy platform designed for rural communities. It provides comprehensive digital education, government scheme information, healthcare services, market information, and digital payment capabilities.
+
+**E Gram Shakti** is an offline-first, voice-first, multilingual digital literacy platform designed for rural communities. It provides comprehensive digital education, government scheme information, healthcare services, market information, and digital payment cap![WhatsApp Image 2025-11-26 at 9 48 13 AM](https://github.com/user-attachments/assets/2c923031-4db5-4810-8025-e82e8cf139eb)
+abilities.
 
 ## 🎯 Key Features
 
