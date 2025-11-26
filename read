@@ -1,0 +1,61 @@
+Build a production-ready prototype (PWA + dashboard + kiosk concept) that is offline-first, voice-first, multilingual (Hindi + local dialects), secure, and data-driven. Prioritize accessibility, low-bandwidth operation, and rapid deployability. Deliver code, README, architecture diagram, test plan and a 2–3 minute demo flow.
+
+Tech stack (latest):
+
+Frontend: Next.js (app router) + TypeScript + React + Tailwind CSS, PWA enabled, Service Worker via Workbox, IndexedDB via localForage
+
+Mobile UX: Responsive PWA with Web Speech API for voice I/O + on-device TF.js fallback for basic NLU when offline
+
+Backend: Node.js (NestJS or Fastify) + TypeScript, REST + GraphQL endpoint
+
+Database & Auth: Supabase (Postgres) with Row Level Security for multi-tenant villages; fallback local sync queue
+
+Realtime & Sync: Supabase Realtime + CRDT-based sync for offline merges
+
+File storage: Supabase Storage (or S3)
+
+Messaging/Voice channels: Twilio for SMS/IVR and fallback SMS gateway simulation
+
+QR/NFC: QR identity generator + NFC data schema; sample scripts for Raspberry Pi kiosk to read/write
+
+Analytics: Postgres + Grafana or Supabase Edge Functions to compute Digital Literacy Score, adoption metrics, heatmaps
+
+AI components: Open-source models via Hugging Face / TF.js for on-device speech to text & simple intent detection; server-side optional LLM calls for rich responses
+
+DevOps: Docker Compose, CI (GitHub Actions), simple Helm chart or Vercel deployment notes
+
+Core features to implement:
+
+Offline-first PWA: lessons, forms, QR card reader, local profile, sync queue.
+
+Voice-first assistant: speak Q/A, guide through forms, read notifications; fallback to text UI.
+
+Micro-learning module: short videos, quizzes, gamification, badges, digital-certificate generator.
+
+Digital Literacy Evaluator: task-based test → score (0–100) stored per user.
+
+QR/NFC Digital Saathi Card: generate QR payload, offline scan demo, export/import.
+
+Admin Dashboard: village analytics, adoption graphs, literacy distribution, service usage, CSV export.
+
+IVR/SMS integration: demo flows for non-smartphone users (Twilio or simulator).
+
+Kiosk prototype docs: Raspberry Pi setup, solar-power notes, touch + printer + QR scanning.
+
+Security & privacy: encryption at rest/in transit, minimal PII, RLS policies, consent flow.
+
+Tests & CI: unit tests, basic E2E demo script, accessibility checklist (WCAG basics).
+
+Deliverables:
+
+Git repo structure with frontend, backend, infra
+
+Running demo instructions (local + cloud)
+
+README with architecture diagram, feature list, and how to demo offline & kiosk flows
+
+Short demo video/script (2–3 min) showing voice flow, offline sync, QR card scan, admin dashboard
+
+Endpoints list and sample requests, data models, and migration scripts
+
+Constraints & priorities: Must work on low-end Android devices and in no/low connectivity; keep on-device processing minimal; provide clear steps to swap in paid APIs (LLM/TTS) later.
