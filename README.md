@@ -10,6 +10,7 @@
 ## 📋 Project Overview
 
 Demo Video Link: https://youtu.be/Wi82__CXJx8?si=LQ3V2fEeeTr4mHpN
+Drive Link:https://drive.google.com/drive/folders/1Pbkw3iPvGhM3NRmtxundSdGpCmCs17vM?usp=drive_link
 
 **E Gram Shakti** is an offline-first, voice-first, multilingual digital literacy platform designed for rural communities. It provides comprehensive digital education, government scheme information, healthcare services, market information, and digital payment capabilities.
 
