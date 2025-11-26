@@ -11,6 +11,26 @@
 
 Demo Video Link: https://youtu.be/Wi82__CXJx8?si=LQ3V2fEeeTr4mHpN
 Drive Link:https://drive.google.com/drive/folders/1Pbkw3iPvGhM3NRmtxundSdGpCmCs17vM?usp=drive_link
+## 📸 Application Overview & Gallery
+
+| Landing Page | User Dashboard |
+| :---: | :---: |
+| ![Landing Page](landing-page.jpeg) | ![User Dashboard](user-dashboard.jpeg) |
+| **Landing Page**<br>Multilingual entry point. | **User Dashboard**<br>Key metrics and quick links. |
+
+| Admin Panel | Progress Tracker |
+| :---: | :---: |
+| ![Admin Panel](admin-dashboard.jpeg) | ![Progress Tracker](progress-tracker.jpeg) |
+| **Admin Panel**<br>System management. | **Progress Tracker**<br>Literacy score visualization. |
+
+### Key Services
+* **Government Schemes**: Directory of welfare programs (`govt-schemes.jpeg`).
+* **Market Info**: Real-time agricultural prices (`market-info.jpeg`).
+* **Healthcare**: Telemedicine and health portal (`healthcare.jpeg`).
+* **Digital Payments**: UPI and wallet guides (`digital-payments.jpeg`).
+
+
+
 Project Gallery : 
 ![WhatsApp Image 2025-11-26 at 9 46 59 AM](https://github.com/user-attachments/assets/6967591d-f554-4aca-ad9e-bb54105fb52e)
 ![WhatsApp Image 2025-11-26 at 9 47 09 AM](https://github.com/user-attachments/assets/d0c68c1b-41bc-4612-8f86-1f22119f613b)
